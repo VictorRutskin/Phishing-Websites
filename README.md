@@ -11,7 +11,7 @@ The phishing websites in this repository are not intended to be used for malicio
 
 ## Guide For using one of the Phishing websites i've made:
 1. Clone the repository to your local machine
-3. Check the README.md of the website for further instructions.
+2. Check the README.md of the website for further instructions.
 
 ## Guide For creating a new Phishing Website:
 1. Create separate accounts that are not linked to your personal information, and use a VPN when accessing them.
