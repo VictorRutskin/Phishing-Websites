@@ -14,14 +14,14 @@ The phishing websites in this repository are not intended to be used for malicio
 2. Check the README.md of the website for further instructions.
 
 ## Guide For creating a new Phishing Website:
-1. Create separate accounts that are not linked to your personal information, and use a VPN when accessing them.
-2. Copy the target website using tools such as website scrapers or website copiers, such as https://saveweb2zip.com/en.
-3. Modify the copied website to resemble the original and fix any broken elements, redirecting any links to the actual website.
-4. Use a form submission tool, such as https://www.actionforms.io/, to have the form submissions sent to you.
-5. Host the website on a hosting platform, such as https://app.infinityfree.net/accounts.
-6. Ensure the website's domain name is as similar as possible to the original.
-7. Utilize a URL shortener, such as https://bitly.com/, if the domain name does not closely match the original.
-8. The website is now ready to be distributed, and you will receive any form submissions.
+Make sure to create separate accounts that are not linked to your personal information, and use a VPN when accessing them.
+1. Copy the target website using tools such as website scrapers or website copiers, such as https://saveweb2zip.com/en.
+2. Modify the copied website to resemble the original and fix any broken elements, redirecting any links to the actual website.
+3. Use a form submission tool, such as https://www.actionforms.io/, to have the form submissions sent to you.
+4. Host the website on a hosting platform, such as https://app.infinityfree.net/accounts.
+5. Ensure the website's domain name is as similar as possible to the original.
+6. Utilize a URL shortener, such as https://bitly.com/, if the domain name does not closely match the original.
+7. The website is now ready to be distributed, and you will receive any form submissions.
 
 How to Use
 Clone the repository to your local machine
