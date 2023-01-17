@@ -22,9 +22,3 @@ Make sure to create separate accounts that are not linked to your personal infor
 5. Ensure the website's domain name is as similar as possible to the original.
 6. Utilize a URL shortener, such as https://bitly.com/, if the domain name does not closely match the original.
 7. The website is now ready to be distributed, and you will receive any form submissions.
-
-How to Use
-Clone the repository to your local machine
-Start a local web server in the root directory of the repository
-Access the phishing websites by visiting http://localhost/<website_name> in your web browser
-Please note that these websites are not hosted on a live server and will only work when accessed through a local web server on your machine.
