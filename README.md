@@ -25,10 +25,6 @@ By using this repository, you agree to use the websites contained within it only
 1. Add captcha before submitting, to prevent user from bot submitting to your website.
 
 ### Website code cracking
-1. Some websites will use javascript obfuscation, try using `https://deobfuscate.io` to deobfuscate.
-2. Some websites like `Instagram` will use a javascript to send a server request to check for legitimacy, and if the website is not legit it will show
-an error page, the trick to fix this is to detect the script that does that and delete it.
-3. Some websites like `Facebook` are encrypting some of the data before sending it as a form, so again look for the script that does the encryption and delete it,
-usually its a script that affects a class so just delete the class from the from or one of the elements around it and it will remove the info encryption.
-
-
+1. Websites may use javascript obfuscation to protect their code from being easily understood or modified. To deobfuscate this code, you can use tools such as `https://deobfuscate.io` .
+2. Websites like `Instagram` may use javascript to check for legitimacy, and display an error page if the website is not considered legitimate. To bypass this, you can try identifying and removing the script responsible for this check.
+3. Websites like `Facebook` may use encryption to protect the data they send in forms. To bypass this, you can try identifying the script responsible for the encryption, and remove it. This could be a script that targets a specific class, in which case you can remove the class or the element it is associated with.
