@@ -1,4 +1,5 @@
 # Phishing-Websites
+Phishing websites that contain a disclaimer indicating that the site is not genuine, despite appearing to be a legitimate phishing site.
 
 ## Description
 This repository contains phishing websites for educational purposes only. The purpose of these websites is to raise awareness about the dangers of phishing and to educate users on how to identify and avoid phishing attempts. It is important to note that the use of these websites for any illegal or malicious activities is strictly prohibited and the creator of this repository and its contributors will not be held responsible for any misuse.
