@@ -3,6 +3,8 @@
 ## Disclaimer
 The websites in this repository are for educational purposes only. The creator of this repository and its contributors are not responsible for any misuse of the websites contained in this repository.
 By using this repository, you agree to use the websites contained within it only for educational and research purposes and not to use them for any illegal or malicious activities.
+Usage of this for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. 
+I assume no liability and are not responsible for any misuse or damage caused by repository.
 
 ## Description
 Phishing Websites for Educational Purposes
