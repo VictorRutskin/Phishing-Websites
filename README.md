@@ -9,3 +9,7 @@ Guide:
 6. Make sure to make website domain look most similar to original .
 7. Consider using url shortener if you feel your domain does not look like the real one at all , example: https://bitly.com/ .
 8. Website is ready to be sent, you will get the info in the actionforms.io form section .
+
+
+
+every website will have its own read me and details.
