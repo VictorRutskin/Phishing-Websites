@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="45px" viewBox="0 0 45 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Check_Icon</title>
+    <defs>
+        <polygon id="path-1" points="1.85539103 8.78460889 0.384608937 10.255391 6.31999996 16.190782 20.5753909 1.93539103 19.1046089 0.464608927 6.31999996 13.2492178"></polygon>
+    </defs>
+    <g id="Cell-3:-URL-Landing-Page-IN-PROGRESS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cell3_URL_signin_CM_step2-Copy" transform="translate(-160.000000, -144.000000)">
+            <g id="Check_Icon" transform="translate(163.000000, 147.000000)">
+                <circle id="Oval" stroke="#E50914" stroke-width="2.07999999" fill-rule="nonzero" cx="19.7599999" cy="19.7599999" r="20.7999999"></circle>
+                <g id="Icons/24/Checkmark" transform="translate(9.280000, 11.280000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Path-4" fill="#E50914" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
